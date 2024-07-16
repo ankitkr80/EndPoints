@@ -1,7 +1,7 @@
 {
-  "name": "user-api-server",
+  "name": "api-end-point",
   "version": "1.0.0",
-  "description": "A simple user API server with separated concerns for production-level code",
+  "description": "",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
